@@ -1,2 +1,2 @@
 javascript : https://github.com/jobbole/awesome-javascript-cn;
-css £ºhttps://github.com/jobbole/awesome-css-cn;
+css : https://github.com/jobbole/awesome-css-cn;
